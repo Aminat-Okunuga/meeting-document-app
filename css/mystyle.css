@@ -1,0 +1,66 @@
+/*li ul { display: none; background: #1a3b61;  }
+
+	ul li a {
+
+	  display: block;
+
+	  padding: 1em;
+
+	  text-decoration: none;
+
+	  white-space: nowrap;
+
+	  color: #fff;
+
+	}
+
+	 
+
+	ul li a:hover { background: #1a3b61;   color: #fdc800;}
+	ul li .active {
+    background-color: #1a3b61;
+	}
+/*Displays the dropdown menu on hover.
+*/
+	/*li:hover > ul {
+
+	  display: block;
+
+	  position: absolute;
+	  background: #1a3b61; 
+
+	}
+
+	 
+
+	li:hover li { float: none; }
+
+	 
+
+	li:hover a { background: #1a3b61; }
+
+	 
+
+	li:hover li a:hover { background: #1a3b61; }
+
+	 
+
+	.main-navigation li ul li { border-top: 0; }
+
+/*Displays second level dropdown menus to the right of the first level dropdown menu.
+view source*/
+
+	/*ul ul ul {
+
+	  left: 100%;
+
+	  top: 0;
+
+	}*/
+
+	.margin{
+		margin-top: 0px;
+	}
+	.margin-bottom{
+		margin-bottom: 2px;
+	}
